@@ -21,7 +21,8 @@
 | :---: | --- | --- | 
 | 1 | Nguyễn Xuân Minh | 19521848 | 
 | 2 | Nguyễn Đức Thắng | 19522206 | 
-| 3 | Nguyễn Tam Điệp | 19521360 | 
+| 3 | Hà Văn Thanh | 19522224 | 
+| 4 | Hoàng Anh Tú | 19522450 | 
 
 ## BẢNG MỤC LỤC
 * [Bản báo cáo (bản PPT)](https://github.com/minnguyxn/CS410.N11/blob/main/CS410.pptx)
